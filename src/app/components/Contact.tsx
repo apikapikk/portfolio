@@ -50,7 +50,7 @@ export function Contact() {
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           {[
-            { icon: Mail, label: 'Email', value: 'muhammadalfan.23072@mhs.unesa.ac.id', href: '#' },
+            { icon: Mail, label: 'Email', value: '', href: '#' },
             { icon: MapPin, label: 'Location', value: 'Global / Remote', href: null },
             { icon: Calendar, label: 'Availability', value: 'Open to new projects', href: null }
           ].map((item, index) => (

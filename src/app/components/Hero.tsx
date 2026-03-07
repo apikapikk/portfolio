@@ -35,10 +35,10 @@ export function Hero() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.2 }}
             >
-              Muhammad
+              Hello There.
               <br />
               <span className="relative inline-block">
-                Alfan Muwaffiqul I
+                I am Alfan
                 <motion.span
                   className="absolute -right-4 top-0 w-1 h-full"
                   style={{ backgroundColor: 'var(--electric-blue)' }}
@@ -77,7 +77,7 @@ Currently exploring C and building a strong foundation in software engineering t
                 View Projects
               </motion.a>
               <motion.a
-              href='https://www.linkedin.com/in/muhammad-alfan-muwaffiqul-ihsan-28952228b'
+              href='https://www.linkedin.com/in/muhammad-alfan-muwaffiqul-ihsan'
                 className="px-8 py-3 border border-border hover:border-[var(--electric-blue)] hover:text-[var(--electric-blue)] transition-colors mono text-sm font-medium"
                 whileHover={{ scale: 1.05, y: -2 }}
                 whileTap={{ scale: 0.98 }}
