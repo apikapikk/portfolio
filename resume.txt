@@ -1,0 +1,117 @@
+﻿MUHAMMAD ALFAN MUWAFFIQUL IHSAN  
+(+62)81333126402 | malfanmihsan@gmail.com | github.com/apikapikk | https://id.linkedin.com/in/muhammad-alfan-muwaffiqul-ihsan | Blitar, Jawa Timur, Indonesia 
+Information Technology Education student at Universitas Negeri Surabaya with hands-on experience building real-world web applications for government clients. Passionate about systems programming, Linux internals, and backend development. Currently exploring Go and low-level C programming alongside teaching experience that sharpened my ability to break down complex technical concepts for different audiences.
+
+
+Education  
+Bachelor of Information Technology Education
+Universitas Negeri Surabaya (UNESA)
+2023 – Present
+* GPA: 3.74 / 4.00
+* Faculty of Engineering
+* Relevant Areas: Software Development, Computer Networking, Educational Technology, Database Systems
+Experience  
+
+
+Full Stack Developer Intern
+DISKOMINFO Kota Blitar (Department of Communication, Informatics, and Statistics)  
+Aug 2025 – Dec 2025
+Technologies: Laravel 12, MongoDB, Leaflet.js, TailwindCSS, Alpine.js
+Built AMARTA, a web-based infrastructure management system for road and bridge data in Blitar City, deployed for government operational use.
+* Developed the complete admin panel (full stack) and public-facing citizen portal (backend).
+* Implemented interactive geospatial mapping using Leaflet.js with GeoJSON data stored in MongoDB.
+* Developed an OTP verification system through WhatsApp API for infrastructure damage reporting. 
+Teaching Practicum (PLP) – Vocational High School 
+Computer and Network Engineering (TKJ) Program 
+Jan 2025 – Jun 2025
+* Taught computer networking fundamentals to vocational high school students.
+* Prepared lesson plans, learning materials, and classroom assessments.
+* Assisted students in understanding networking concepts through practical activities.
+* Developed communication and instructional skills by delivering technical topics to diverse learners.
+Projects    
+
+
+Scriptoria
+2025
+Technologies: Next.js, TypeScript, Supabase, SQL 
+Repositories: https://github.com/apikapikk/scriptoria
+Point-of-sale web application developed for a stationery MSME (UMKM).
+* Built role-based dashboards for administrators and cashiers.
+* Implemented QR-code-based product management.
+* Automated daily and monthly sales reporting.
+* Developed transaction processing and receipt printing functionality.
+Recipe App 
+2024
+Technologies: Kotlin, XML, Firebase 
+Repositories: https://github.com/apikapikk/recipeApp
+
+
+Android application for recipe sharing and management.
+* Implemented Firebase Authentication for user registration and login.
+* Developed category-based recipe search functionality.
+* Added favorites management features.
+* Designed the application workflow and UI prototype using Figma before development.
+
+
+
+
+
+
+
+
+C Systems Programming Learning
+2025 - Present
+Technologies: C, Markdown 
+Repositories: https://github.com/apikapikk/C-Learning-Journey
+
+
+Self-directed study project documenting systems programming concepts.
+ 
+* Covered pointers, pointer arithmetic, function pointers, structures, memory management, and linked lists.
+* Maintained structured technical notes using Markdown.
+* Focused on understanding low-level programming and computer systems fundamentals.
+
+
+Linux Dotfiles & Hyprland Setup 
+2026 - Present
+Technologies: Config, JSON
+Repositories: https://github.com/apikapikk/dtflies-arch
+
+
+Personal Linux environment configuration focused on productivity and workflow optimization.
+
+
+* Configured and maintained a customized Hyprland desktop environment.
+* Managed reproducible system configuration through Git-based dotfiles.
+
+
+
+
+   Certifications    
+AI Agent for Programming
+Hacktiv8 | May 2026
+Credential ID: 00482/H8/CSR/ISUE/V/2026 
+Introduction to Large Language Models
+IBM SkillsBuild | Apr 2026
+Credential ID: ALM-COURSE_4058915 
+Build an AI Agent
+IBM | Apr 2026
+Credential ID: See Credential
+AWS Knowledge: Cloud Essentials
+Amazon Web Services (AWS) | Jan 2026
+Credential ID: 26d9b64a-3330-4922-9c12-9890cfb29fda
+
+
+ Skills  
+Programming
+JavaScript, TypeScript, PHP, Kotlin, SQL, C
+Web & Mobile Development
+Laravel, Next.js, Firebase, REST APIs
+Database
+MongoDB, MySQL, Supabase
+Design & Product
+Figma, UI/UX Prototyping, User-Centered Design
+Tools
+Git, GitHub, Linux, Docker (Basic)
+Soft Skills
+Communication, Teaching, Collaboration, Problem Solving

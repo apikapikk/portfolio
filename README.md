@@ -1,11 +1,32 @@
+# Alfan — Interactive Portfolio
 
-  # Design Developer Portfolio Landing Page
+Portfolio satu halaman berbasis React + Vite dengan scene interaktif, background shape, object langit tunggal, dan transisi horizontal antar-komponen.
 
-  This is a code bundle for Design Developer Portfolio Landing Page. The original project is available at https://www.figma.com/design/eH5R5m20LhFmXSLZKJU9JA/Design-Developer-Portfolio-Landing-Page.
+## Fitur
 
-  ## Running the code
+- Fixed viewport tanpa page scroll vertikal.
+- Delapan scene: profile, education, experience, systems, work, skills, certifications, dan contact.
+- Scroll/keyboard untuk mengganti scene.
+- Background crossfade seperti perubahan waktu: pagi, sore, siang, malam.
+- Konten scene masuk/keluar secara horizontal.
+- Layout mobile compact tanpa crop pada informasi utama.
+- Data portfolio terpusat di `src/data/portfolio.json`.
 
-  Run `npm i` to install the dependencies.
+Lihat dokumentasi lengkap di [DOCUMENTATION.md](DOCUMENTATION.md).
 
-  Run `npm run dev` to start the development server.
-  # portfolio
+## Menjalankan
+
+```bash
+npm install
+npm run dev
+```
+
+## Build
+
+```bash
+npm run build
+```
+
+## Data resume
+
+Resume sumber berada di [resume.txt](resume.txt). Data yang digunakan aplikasi berada di [src/data/portfolio.json](src/data/portfolio.json).

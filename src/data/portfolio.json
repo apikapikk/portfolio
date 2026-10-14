@@ -1,0 +1,147 @@
+{
+  "profile": {
+    "name": "Muhammad Alfan Muwaffiqul Ihsan",
+    "shortName": "Alfan",
+    "role": "Full-Stack Developer & Systems Programming Enthusiast",
+    "status": "Open for collaboration",
+    "education": {
+      "degree": "Bachelor of Information Technology Education",
+      "institution": "Universitas Negeri Surabaya (UNESA)",
+      "period": "2023 - Present",
+      "gpa": "3.74 / 4.00",
+      "faculty": "Faculty of Engineering",
+      "relevantAreas": ["Software Development", "Computer Networking", "Educational Technology", "Database Systems"]
+    },
+    "location": "Blitar, Jawa Timur, Indonesia",
+    "email": "malfanmihsan@gmail.com",
+    "phone": "+62 813-3312-6402",
+    "github": "https://github.com/apikapikk",
+    "linkedin": "https://id.linkedin.com/in/muhammad-alfan-muwaffiqul-ihsan",
+    "bio": "Information Technology Education student at Universitas Negeri Surabaya with hands-on experience building real-world web applications for government clients. Passionate about systems programming, Linux internals, and backend development. Currently exploring Go and low-level C programming alongside teaching experience that sharpened my ability to break down complex technical concepts for different audiences."
+  },
+  "stats": [
+    { "label": "GPA", "value": "3.74 / 4.00" },
+    { "label": "Experience", "value": "1 Internship" },
+    { "label": "Focus", "value": "C + Go" },
+    { "label": "Location", "value": "Blitar, ID" }
+  ],
+  "projects": [
+    {
+      "id": "PRJ-01",
+      "title": "AMARTA — Infrastructure Management System",
+      "year": "2025",
+      "summary": "Web-based road and bridge infrastructure management system built for DISKOMINFO Kota Blitar and deployed for government operational use.",
+      "technologies": ["Laravel 12", "MongoDB", "Leaflet.js", "TailwindCSS", "Alpine.js"],
+      "details": ["Developed the complete admin panel and public-facing citizen portal backend.", "Implemented interactive geospatial mapping using Leaflet.js with GeoJSON data stored in MongoDB.", "Developed OTP verification through WhatsApp API for infrastructure damage reporting."],
+      "tags": ["Laravel 12", "MongoDB", "Leaflet.js", "TailwindCSS"],
+      "github": "https://github.com/apikapikk"
+    },
+    {
+      "id": "PRJ-02",
+      "title": "Scriptoria — Point of Sale",
+      "year": "2025",
+      "summary": "Point-of-sale web application for a stationery MSME, with role-based dashboards, QR product management, automated reporting, and receipt printing.",
+      "technologies": ["Next.js", "TypeScript", "Supabase", "SQL"],
+      "details": ["Built role-based dashboards for administrators and cashiers.", "Implemented QR-code-based product management.", "Automated daily and monthly sales reporting.", "Developed transaction processing and receipt printing functionality."],
+      "tags": ["Next.js", "TypeScript", "Supabase", "SQL"],
+      "github": "https://github.com/apikapikk/scriptoria"
+    },
+    {
+      "id": "PRJ-03",
+      "title": "C Systems Programming Learning",
+      "year": "2025 — Present",
+      "summary": "Self-directed study project documenting pointers, memory management, linked lists, function pointers, structures, and computer systems fundamentals.",
+      "technologies": ["C", "Markdown"],
+      "details": ["Covered pointers, pointer arithmetic, function pointers, structures, memory management, and linked lists.", "Maintained structured technical notes using Markdown.", "Focused on low-level programming and computer systems fundamentals."],
+      "tags": ["C", "Pointers", "Memory", "Markdown"],
+      "github": "https://github.com/apikapikk/C-Learning-Journey"
+    },
+    {
+      "id": "PRJ-04",
+      "title": "Linux Dotfiles & Hyprland Setup",
+      "year": "2026 — Present",
+      "summary": "Personal Linux environment configuration focused on productivity, workflow optimization, and reproducible system setup through Git-based dotfiles.",
+      "technologies": ["Config", "JSON", "Linux", "Hyprland"],
+      "details": ["Configured and maintained a customized Hyprland desktop environment.", "Managed reproducible system configuration through Git-based dotfiles."],
+      "tags": ["Linux", "Hyprland", "Git", "Config"],
+      "github": "https://github.com/apikapikk/dtflies-arch"
+    },
+    {
+      "id": "PRJ-05",
+      "title": "Recipe App",
+      "year": "2024",
+      "summary": "Android application for recipe sharing and management with authentication, category-based search, favorites, and a workflow prototyped in Figma.",
+      "technologies": ["Kotlin", "XML", "Firebase", "Figma"],
+      "details": ["Implemented Firebase Authentication for user registration and login.", "Developed category-based recipe search functionality.", "Added favorites management features.", "Designed the application workflow and UI prototype using Figma before development."],
+      "tags": ["Kotlin", "XML", "Firebase", "Figma"],
+      "github": "https://github.com/apikapikk/recipeApp"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Programming",
+      "items": [
+        { "name": "JavaScript", "level": "Production", "desc": "Modern web application development." },
+        { "name": "TypeScript", "level": "Production", "desc": "Typed application and frontend development." },
+        { "name": "PHP", "level": "Production", "desc": "Backend development with Laravel." },
+        { "name": "Kotlin", "level": "Working", "desc": "Native Android application development." },
+        { "name": "SQL", "level": "Working", "desc": "Relational data modeling and queries." },
+        { "name": "C", "level": "Deepening", "desc": "Low-level programming and systems fundamentals." },
+        { "name": "Go", "level": "Exploring", "desc": "Currently exploring backend and systems development." }
+      ]
+    },
+    {
+      "category": "Web & Mobile",
+      "items": [
+        { "name": "Laravel", "level": "Production", "desc": "Full-stack backend and REST API development." },
+        { "name": "Next.js", "level": "Production", "desc": "Modern full-stack React applications." },
+        { "name": "Firebase", "level": "Working", "desc": "Authentication and realtime mobile backend." },
+        { "name": "REST APIs", "level": "Working", "desc": "Designing and consuming application APIs." }
+      ]
+    },
+    {
+      "category": "Data & Tools",
+      "items": [
+        { "name": "MongoDB", "level": "Production", "desc": "Document data modeling for operational systems." },
+        { "name": "MySQL", "level": "Working", "desc": "Relational database development." },
+        { "name": "Supabase", "level": "Working", "desc": "Hosted Postgres and application backend." },
+        { "name": "Git / GitHub", "level": "Working", "desc": "Version control and collaborative development." },
+        { "name": "Linux", "level": "Working", "desc": "Daily development environment and workflow." },
+        { "name": "Docker", "level": "Basic", "desc": "Containerized development environments." }
+      ]
+    },
+    {
+      "category": "Design & People",
+      "items": [
+        { "name": "Figma", "level": "Working", "desc": "UI/UX prototyping and product workflow." },
+        { "name": "Teaching", "level": "Experienced", "desc": "Explaining technical topics to diverse learners." },
+        { "name": "Communication", "level": "Experienced", "desc": "Clear written and verbal collaboration." },
+        { "name": "Problem Solving", "level": "Core", "desc": "Breaking down complex technical problems." }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "title": "Full Stack Developer Intern",
+      "company": "DISKOMINFO Kota Blitar",
+      "period": "Aug 2025 — Dec 2025",
+      "description": "Built AMARTA, a web-based infrastructure management system for road and bridge data in Blitar City.",
+      "technologies": ["Laravel 12", "MongoDB", "Leaflet.js", "TailwindCSS", "Alpine.js"],
+      "details": ["Developed the complete admin panel (full stack) and public-facing citizen portal (backend).", "Implemented interactive geospatial mapping using Leaflet.js with GeoJSON data stored in MongoDB.", "Developed an OTP verification system through WhatsApp API for infrastructure damage reporting."]
+    },
+    {
+      "title": "Teaching Practicum (PLP)",
+      "company": "Vocational High School — TKJ Program",
+      "period": "Jan 2025 — Jun 2025",
+      "description": "Taught computer networking fundamentals, prepared learning materials and assessments, and delivered practical technical lessons.",
+      "technologies": ["Networking", "Teaching", "Assessment"],
+      "details": ["Taught computer networking fundamentals to vocational high school students.", "Prepared lesson plans, learning materials, and classroom assessments.", "Assisted students through practical networking activities.", "Developed communication and instructional skills for diverse learners."]
+    }
+  ],
+  "certifications": [
+    { "name": "AI Agent for Programming", "issuer": "Hacktiv8", "date": "May 2026", "credentialId": "00482/H8/CSR/ISUE/V/2026" },
+    { "name": "Introduction to Large Language Models", "issuer": "IBM SkillsBuild", "date": "Apr 2026", "credentialId": "ALM-COURSE_4058915" },
+    { "name": "Build an AI Agent", "issuer": "IBM", "date": "Apr 2026", "credentialId": "See Credential" },
+    { "name": "AWS Knowledge: Cloud Essentials", "issuer": "Amazon Web Services (AWS)", "date": "Jan 2026", "credentialId": "26d9b64a-3330-4922-9c12-9890cfb29fda" }
+  ]
+}
