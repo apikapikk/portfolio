@@ -27,8 +27,9 @@ html, body, #root {
   min-height: 100%;
   width: 100%;
   overflow-x: hidden;
-  background: var(--white);
-  color: var(--black);
+  background: #09090b;
+  color: #ffffff;
+  overscroll-behavior: none;
 }
 
 body {
@@ -39,6 +40,7 @@ body {
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   overflow: hidden;
+  overscroll-behavior: none;
 }
 
 button, input, textarea, select {
